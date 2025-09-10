@@ -3,7 +3,7 @@
 
 Every truck rolling off the Peterbilt assembly line represents not just engineering excellence, but a potential future cost in the form of warranty claims. My mission was to act as a data detective, analyzing years of vehicle data to uncover a central business mystery: which specific vehicle attributes and combinations were driving up warranty costs? By solving this puzzle, we could help Peterbilt make smarter decisions, build better trucks, and protect their bottom line.
 
-##🧠 The Data-Driven Blueprint
+## 🧠 The Data-Driven Blueprint
 
 This project was a deep dive into two proprietary datasets from Peterbilt Motor Company. My goal was to create a clear, actionable roadmap for reducing warranty costs. Here is the process I followed:
 
@@ -52,6 +52,7 @@ Target quality control efforts where they matter most.
 Enhance customer trust by offering reliable, high-quality products.
 
 # In short, we turned data into dollars, giving Peterbilt a powerful tool for a profitable, data-driven future.
+
 
 
 
